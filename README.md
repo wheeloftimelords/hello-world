@@ -1,2 +1,5 @@
 # hello-world
-hey look a description 
+
+Here's a description 
+Definitely about me
+And not about books
